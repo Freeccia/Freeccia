@@ -1,2 +1,3 @@
 "-v?;?:a?!!" //Freccia
  "&!?a:?a!&?:av" //Pegasus
+"a-=?::!?:;#?a=+", //Vector
